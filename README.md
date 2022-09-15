@@ -25,3 +25,11 @@ Coherent uniform grid 50000 boids with 0.05 delta time
 Coherent uniform grid 100000 boids with 0.05 delta time
 
 ![Coherent uniform grid 100000 boids](images/100000-0.05.gif)
+
+Frame Rate Histogram (1-to-1)
+
+![Histogram](images/Histogram.png)
+
+Frame Rate Histogram (Logarithmic)
+
+![LogHistogram](images/LogHistogram.png)
